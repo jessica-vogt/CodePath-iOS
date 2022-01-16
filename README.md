@@ -1,7 +1,7 @@
 # CodePath-iOS
 # Pre-work - Tip Calculator
 
-Tip Calculatorp is a tip calculator application for iOS.
+Tip Calculator is a tip calculator application for iOS.
 
 Submitted by: Jessica
 
